@@ -17,7 +17,7 @@ RUN npm install
 COPY . .
 
 # Esponi la porta sulla quale l'app ascolta (assicurati che il tuo progetto Node.js utilizzi la stessa porta)
-EXPOSE 3000
+#EXPOSE 3000
 
 # Comando da eseguire per avviare l'app all'interno del container
 CMD ["node", "js/main.js"]
