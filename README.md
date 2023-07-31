@@ -1,23 +1,28 @@
-BroBot
-Brobot is a powerful, humor-filled Minecraft Bedrock bot that utilizes OpenAI's GPT-3.5-turbo model to interact with players and execute game commands.
+# Brobot
 
-Features
-Interaction with Players: Brobot has a distinct and humorous personality, engaging with players in chats, responding to their messages, and carrying out their requests.
-Powerful Command Execution: Brobot can execute in-game commands to assist players with tasks such as gathering resources, teleportation, and summoning entities.
-Superior Language Processing: Utilizing OpenAI's GPT-3.5-turbo, Brobot understands players' requests and produces appropriate responses. It can handle complex requests with context and even maintains chat logs for each player to provide contextual conversation history.
-Docker Integration: Brobot can be controlled through a Minecraft server running inside a Docker container, enabling better management, scalability, and isolation of the game environment.
-Convenient Logging and Error Tracking: Using Winston, a popular logging library for Node.js, Brobot maintains detailed logs of its activities and errors.
-Setup and Usage
-For setup instructions and usage guide, please refer to the repository's README file.
+Brobot è un potente e divertente bot per Minecraft Bedrock che utilizza il modello GPT-3.5-turbo di OpenAI per interagire con i giocatori ed eseguire comandi di gioco.
 
-Future Development
-Brobot is an ongoing project, with planned future enhancements to improve its language processing capabilities, increase the variety of in-game tasks it can perform, and more.
+## Caratteristiche
 
-Contributions
-Contributions are welcome! If you have ideas for improvements or have found a bug, please open an issue or submit a pull request.
+- **Interazione con i Giocatori**: Brobot ha una personalità distintiva e piena di umorismo, coinvolge i giocatori nelle chat, risponde ai loro messaggi e esegue le loro richieste.
+- **Potente Esecuzione di Comandi**: Brobot può eseguire comandi in-game per aiutare i giocatori in compiti come la raccolta di risorse, il teletrasporto e l'invocazione di entità anche senza l'uso di mod o cheat, in modalità sopravvivenza.
+- **Eccellente Elaborazione del Linguaggio**: Grazie all'uso di GPT-3.5-turbo di OpenAI, Brobot comprende le richieste dei giocatori e produce risposte adeguate. Può gestire richieste complesse con contesto e mantiene anche i log delle chat per ciascun giocatore, fornendo una storia della conversazione contestuale.
+- **Integrazione Docker**: Brobot può essere controllato tramite un server Minecraft che gira all'interno di un container Docker, permettendo una migliore gestione, scalabilità e isolamento dell'ambiente di gioco.
+- **Registrazione Conveniente e Tracciamento Errori**: Utilizzando Winston, una popolare libreria di logging per Node.js, Brobot mantiene log dettagliati delle sue attività e degli errori.
 
-License
-Brobot is open source, licensed under the MIT license.
 
-Disclaimer
-Please remember that Brobot is a bot, and its responses should not be taken personally. Its unique personality is designed for fun and humor. Always follow the game's rules and play responsibly.
+## Sviluppo Futuro
+
+Brobot è un progetto in corso, con miglioramenti futuri previsti per potenziare le sue capacità di elaborazione del linguaggio, aumentare la varietà di compiti in-game che può svolgere, e molto altro.
+
+## Contributi
+
+I contributi sono i benvenuti! Se hai idee per miglioramenti o hai trovato un bug, per favore apri un problema o invia una pull request.
+
+## Licenza
+
+Brobot è open source, con licenza MIT.
+
+## Disclaimer
+
+Ricorda che Brobot è un bot, e le sue risposte non devono essere prese sul personale. La sua personalità unica è progettata per divertimento e umorismo. Segui sempre le regole del gioco e gioca responsabilmente.
